@@ -15,6 +15,7 @@ public class Exemplo1 {
       int i = 10;
       listarChamada()
       // Se chegarem mais alunos, serão novamente saudados.
+      escreverBoasVindas();
+      // Um método pode ser chamdado quantas vezes forem necessárias.
     }
-
 }
