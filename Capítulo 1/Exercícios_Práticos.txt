@@ -4,7 +4,7 @@
     São exemplos de linguagens de programação orientadas a objeto: python, Java, C#, C++ r Ruby.
 
   b) Seria Java pertencente a qual paradigma? Uma dica: C# pertence ao mesmo paradigma de java.
-
+    Java é uma linguagem de programação orientada a objetos.
 
   c) Qual o nome da primeira linguagem de programação orientada a objetos criada?
 
