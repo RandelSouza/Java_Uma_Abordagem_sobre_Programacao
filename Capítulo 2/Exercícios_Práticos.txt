@@ -4,3 +4,9 @@
 
   b) Não se esqueça de incluir aí o Peopleware (que somos nós pessoas), pois não existe apenas o usuário final, mas também
      vários profissionais envolvidos na computação. Você se considera um deles? Explique.
+
+
+2. Crie uma tabela com a faixa de valores possíveis para os tipos byte, short, int e long.
+
+
+3. 
