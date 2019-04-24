@@ -10,7 +10,7 @@
 
 2. Crie uma tabela com a faixa de valores possíveis para os tipos byte, short, int e long.
     +---------------------+-------------------------------------+
-    |        TIPO         |       DESCRIÇÃO                     |
+    |        TIPO         |              DESCRIÇÃO              |
     +---------------------+-------------------------------------+
     |                     | Inteiro de 8 bits em notação de     |
     |        byte         | complemento de dois. Pode assumir   |
