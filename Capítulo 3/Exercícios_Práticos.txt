@@ -1,6 +1,7 @@
 1. Considere um método que tem a palavra-chave void em sua assinatura. Responda:
   a) Ele retorna valor? Explique o motivo.
-
+    Não retorna valor, a assinatura void informa que o método não apresenta retorno,
+    somente ira executar o código de seu escopo sem retornar nenhum valor.
 
   b) Ele tem a palavra return em seu corpo?
 
