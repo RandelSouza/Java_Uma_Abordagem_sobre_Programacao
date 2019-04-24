@@ -20,6 +20,10 @@ public class Exemplo2 {
 
         // Chamada do método subtrair e respectiva atribuição do retorno à variável resultadoSubtração
         int resultadoSubtração = subtrair( numero1, numero2 );
+
+        System.out.println( "Resultados: " );
+        System.out.println( "Soma " + resultadoSoma );
+        System.out.println( "Subtração " + resultadoSubtração );
     }
 
 }
