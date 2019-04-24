@@ -9,4 +9,8 @@
 2. Crie uma tabela com a faixa de valores possíveis para os tipos byte, short, int e long.
 
 
-3. 
+
+3. O que signifiva Casting em programação.
+
+
+4. Vamos estender nosso conhecimento para os números reais, respondendo quantos bytes ocupam na memória os tipos float e double.
