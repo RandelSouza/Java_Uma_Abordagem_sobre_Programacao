@@ -1,0 +1,2 @@
+1. Pesquise para entender melhor:
+  a) Sabendo que a parte física é o Hardware e que a parte lógica é o Software, dê exemplos para cada uma dessas partes.
