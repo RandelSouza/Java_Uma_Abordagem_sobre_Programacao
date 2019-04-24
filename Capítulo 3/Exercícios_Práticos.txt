@@ -9,4 +9,4 @@
   a) Quais são os parâmetros que ele recebe para executar a operação?
 
 
-  b) Se ele
+  b) Se ele tem return, significa que retorna um valor. De qual tipo é o retorno?
