@@ -1,0 +1,2 @@
+1. Como fazemos para abortar um programa que está em loop infinito no prompt
+   do interpretador de comandos de seu sistema Operacional.
