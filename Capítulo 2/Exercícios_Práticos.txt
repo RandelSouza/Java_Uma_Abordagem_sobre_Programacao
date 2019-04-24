@@ -16,7 +16,10 @@
   |        byte         | complemento de dois. Pode assumir   |
   |                     | valores entre -2⁷ = -128 e 2⁷-1=127.|
   +---------------------+-------------------------------------+
-  |        short        |       DESCRIÇÃO                     |
+  |                     | Inteiro de 16 bits em notação de    |
+  |                     | complemento de dois. Os valores     |
+  |        short        | possívels cobrem a faixa de         |
+  |                     | -2^-15=-32.768 a 2^15-1=32.767      |
   +---------------------+-------------------------------------+
   |        int          |       DESCRIÇÃO                     |
   +---------------------+-------------------------------------+
