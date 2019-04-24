@@ -37,3 +37,4 @@
   seja apontada ao compilador. A este apontamento damos o nome de casting.
 
 4. Vamos estender nosso conhecimento para os números reais, respondendo quantos bytes ocupam na memória os tipos float e double.
+  O tipo float ocupa 4 bytes e o tipo double ocupa 8 bytes.
