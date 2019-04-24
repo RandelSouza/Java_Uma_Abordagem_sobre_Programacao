@@ -18,3 +18,7 @@
    O resultado na tela serio o mesmo dos três exemplos deste capítulo.
 
    a) Essa declaração está correta?
+
+
+   b) O laço for seria repetido dez vezes do mesmo jeito? Faça as classes
+      com alterações e explique se sim ou não e o porquê.
