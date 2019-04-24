@@ -1,4 +1,4 @@
-1. Considere um método que tem a palavra-chave void em sua assinatura. Respopnda:
+1. Considere um método que tem a palavra-chave void em sua assinatura. Responda:
   a) Ele retorna valor? Explique o motivo.
 
 
