@@ -5,7 +5,7 @@
 
   b) Não se esqueça de incluir aí o Peopleware (que somos nós pessoas), pois não existe apenas o usuário final, mas também
      vários profissionais envolvidos na computação. Você se considera um deles? Explique.
-     Sim, pois estamos em contado constante com Sistemas da Informação e com a Tecnologia da Informação ou Comunicação e trabalhamos seja direta
+     Sim, pois estamos em contado constante com Sistemas da Informação e com a Tecnologia da Informação e Comunicação e trabalhamos seja direta
      ou seja indireramente com eles.
 
 2. Crie uma tabela com a faixa de valores possíveis para os tipos byte, short, int e long.
