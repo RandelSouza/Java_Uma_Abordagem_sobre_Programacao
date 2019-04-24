@@ -10,7 +10,7 @@ public class Exemplo1 {
       System.out.println("João\nMaria\nPedro\nGilberto\nIsabela");
     }
 
-    public static void main( String[] args ){
+    public static void main(String[] args){
       escreverBoasVindas();
       int i = 10;
       listarChamada();
