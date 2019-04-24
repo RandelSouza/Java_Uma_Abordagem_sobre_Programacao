@@ -10,4 +10,11 @@ public class Exemplo1 {
       System.out.println("João\nMaria\nPedro\nGilberto\nIsabela");
     }
 
+    public static void main(Strings[] args){
+      escreverBoasVindas();
+      int i = 10;
+      listarChamada()
+      // Se chegarem mais alunos, serão novamente saudados.
+    }
+
 }
