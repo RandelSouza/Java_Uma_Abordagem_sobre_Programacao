@@ -9,7 +9,7 @@ public class Exemplo2 {
     public static  int subtrair( int numero1, int numero2 ){
         return numero1 - numero2;
     }
-
+    
     // Método principal onde se executa a aplicação
     public static void main( String[] args ){
         int numero1 = 10;
