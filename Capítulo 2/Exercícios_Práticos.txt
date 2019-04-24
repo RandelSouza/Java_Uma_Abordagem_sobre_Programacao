@@ -9,25 +9,25 @@
      ou seja indireramente com eles.
 
 2. Crie uma tabela com a faixa de valores possíveis para os tipos byte, short, int e long.
-  +---------------------+-------------------------------------+
-  |        TIPO         |       DESCRIÇÃO                     |
-  +---------------------+-------------------------------------+
-  |                     | Inteiro de 8 bits em notação de     |
-  |        byte         | complemento de dois. Pode assumir   |
-  |                     | valores entre -2⁷ = -128 e 2⁷-1=127.|
-  +---------------------+-------------------------------------+
-  |                     | Inteiro de 16 bits em notação de    |
-  |                     | complemento de dois. Os valores     |
-  |        short        | possívels cobrem a faixa de         |
-  |                     | -2^-15=-32.768 a 2^15-1=32.767      |
-  +---------------------+-------------------------------------+
-  |                     | Inteiro de 32 bits em notação de    |
-  |                     | complemento de dois. Pode assumir   |
-  |         int         | valores entre -231=2.147.483.648    |
-  |                     | e 231-1=2.147.483.647.              |
-  +---------------------+-------------------------------------+
-  |        long         |       DESCRIÇÃO                     |
-  +---------------------+-------------------------------------+
+    +---------------------+-------------------------------------+
+    |        TIPO         |       DESCRIÇÃO                     |
+    +---------------------+-------------------------------------+
+    |                     | Inteiro de 8 bits em notação de     |
+    |        byte         | complemento de dois. Pode assumir   |
+    |                     | valores entre -2⁷ = -128 e 2⁷-1=127.|
+    +---------------------+-------------------------------------+
+    |                     | Inteiro de 16 bits em notação de    |
+    |                     | complemento de dois. Os valores     |
+    |        short        | possívels cobrem a faixa de         |
+    |                     | -2^-15=-32.768 a 2^15-1=32.767      |
+    +---------------------+-------------------------------------+
+    |                     | Inteiro de 32 bits em notação de    |
+    |                     | complemento de dois. Pode assumir   |
+    |         int         | valores entre -2^31=2.147.483.648   |
+    |                     | e 2^31-1=2.147.483.647.             |
+    +---------------------+-------------------------------------+
+    |        long         |       DESCRIÇÃO                     |
+    +---------------------+-------------------------------------+
 
 3. O que signifiva Casting em programação.
 
