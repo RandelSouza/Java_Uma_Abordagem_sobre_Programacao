@@ -7,6 +7,6 @@
     Java é uma linguagem de programação orientada a objetos.
 
   c) Qual o nome da primeira linguagem de programação orientada a objetos criada?
-
+    Linguagem Simula 67, criada por Ole-Johan Dahl e Kristen Nygaard em 1967.
 
   Anotações
