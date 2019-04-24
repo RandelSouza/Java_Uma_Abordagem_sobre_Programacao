@@ -9,6 +9,7 @@
 
 2. Agora observe o método somar do exemlo 2 e responda:
   a) Quais são os parâmetros que ele recebe para executar a operação?
-
+    Como parâmetro recebe dois números: numero1 e numero2.
 
   b) Se ele tem return, significa que retorna um valor. De qual tipo é o retorno?
+    O retorno é do tipo int.
