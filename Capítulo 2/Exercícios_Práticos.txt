@@ -1,6 +1,7 @@
 1. Pesquise para entender melhor:
   a) Sabendo que a parte física é o Hardware e que a parte lógica é o Software, dê exemplos para cada uma dessas partes.
-
+    Parte física (Hardware): mouse, teclado, impressora, CPU, estabilizador e monitor.
+    Parte lógica (Software): Sistema Operacional, gerenciador de discos, programas de usuário e qualquer programa que seja executavel no computador.
 
   b) Não se esqueça de incluir aí o Peopleware (que somos nós pessoas), pois não existe apenas o usuário final, mas também
      vários profissionais envolvidos na computação. Você se considera um deles? Explique.
