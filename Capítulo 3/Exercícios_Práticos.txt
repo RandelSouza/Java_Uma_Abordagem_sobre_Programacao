@@ -1,0 +1,5 @@
+1. Considere um método que tem a palavra-chave void em sua assinatura. Respopnda:
+  a) Ele retorna valor? Explique o motivo.
+
+
+  b) Ele tem a palavra return em seu corpo?
