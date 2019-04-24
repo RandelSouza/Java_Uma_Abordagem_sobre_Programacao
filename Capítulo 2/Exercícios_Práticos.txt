@@ -2,4 +2,5 @@
   a) Sabendo que a parte física é o Hardware e que a parte lógica é o Software, dê exemplos para cada uma dessas partes.
 
 
-  b) Não se esqueça de incluir aí o Peopleware (que somos nós pessoas),
+  b) Não se esqueça de incluir aí o Peopleware (que somos nós pessoas), pois não existe apenas o usuário final, mas também
+     vários profissionais
