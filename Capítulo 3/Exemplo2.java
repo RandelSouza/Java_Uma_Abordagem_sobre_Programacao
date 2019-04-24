@@ -1,12 +1,12 @@
 public class Exemplo2 {
 
     // Método público que realiza a soma
-    public static int somar(int numero1, int numero2){
+    public static int somar( int numero1, int numero2 ){
         return numero1 + numero2;
     }
 
     // Método público que realiza a subtração
-    public static  int subtrair(int numero1, int numero2){
+    public static  int subtrair( int numero1, int numero2 ){
         return numero1 - numero2;
     }
 
