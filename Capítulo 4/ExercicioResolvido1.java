@@ -21,12 +21,12 @@ public class ExercicioResolvido1{
 
         while(contador <= 10){
             soma = soma + contador;
-            System.out.println("Repetição Número: " + contador);
-            System.out.println("Soma Acumulada: " + soma);
+            System.out.print("Laço: " + contador);
+            System.out.println("\tSoma: " + soma);
             contador++;
         }
 
-        System.out.println("Soma de Todos: " + soma);
-        System.out.println("Média: " + soma/contador);
+        System.out.println("Soma dos 10 Primeiros Números: " + soma);
+        System.out.println("Média dos 10 Primeiros Números: " + soma/contador);
     }
 }
