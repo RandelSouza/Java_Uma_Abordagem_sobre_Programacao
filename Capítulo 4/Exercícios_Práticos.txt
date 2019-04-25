@@ -1,6 +1,6 @@
 1. Como fazemos para abortar um programa que está em loop infinito no prompt
    do interpretador de comandos de seu sistema Operacional.
-
+   Pressionando a tecla <CTRl+C>.
 
 2. O que significa decremento de variável? Qual o sinal que indica o decremento?
    Dê exemplos de como seria utilizado em um programa.
