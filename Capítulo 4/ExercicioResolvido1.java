@@ -15,15 +15,16 @@ o resultado é apresentado inteiro.
 */
 public class ExercicioResolvido1{
     public static void main( String[] args ){
-        int contador = 1;
+        int contador = 0;
         int soma  = 0;
         int media = 0;
 
         while(contador <= 10){
+            contador++;
             soma = soma + contador;
             System.out.print("Laço: " + contador);
             System.out.println("   Soma: " + soma);
-            contador++;
+
         }
 
         System.out.println("Soma dos 10 Primeiros Números: " + soma);
