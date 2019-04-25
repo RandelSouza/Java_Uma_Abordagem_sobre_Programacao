@@ -5,7 +5,21 @@
 2. O que significa decremento de variável? Qual o sinal que indica o decremento?
    Dê exemplos de como seria utilizado em um programa.
    Decremento de uma variável é diminuir o valor dela.
-   O sinal
+   O sinal que indica o decremento é o --.
+   Exemplo do decremento:
+
+   // Classe decremento
+   public class Decremento{
+       public static void main( String[] args ){
+           int i = 10:
+
+           while(i >= 0){
+               System.out.println("Valor decrementado: " + i);
+               i--;
+           }
+       }
+   }
+
 
 3. Partindo do código-fonte do último exemplo, podemos afirmar que se a instrução
    for fosse alterada para a seguinte:
