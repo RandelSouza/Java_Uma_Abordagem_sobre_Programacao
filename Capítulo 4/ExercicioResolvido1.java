@@ -19,7 +19,7 @@ public class ExercicioResolvido1{
         int soma  = 0;
         int media = 0;
 
-        while(contador <= 10){
+        while(contador < 10){
             contador++;
             soma = soma + contador;
             System.out.print("Laço: " + contador);
