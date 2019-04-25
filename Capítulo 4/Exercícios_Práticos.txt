@@ -35,7 +35,8 @@
    O resultado na tela seria o mesmo dos três exemplos deste capítulo.
 
    a) Essa declaração está correta?
-
+      A declaração e falsa, poiso resultado seria diferente dos três exemplos, abordados no capítulo
+      que no caso são: while, do while e for.
 
    b) O laço for seria repetido dez vezes do mesmo jeito? Faça as classes
       com alterações e explique se sim ou não e o porquê.
