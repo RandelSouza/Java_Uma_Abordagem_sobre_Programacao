@@ -16,6 +16,8 @@
            while(i >= 0){
                System.out.println("Valor decrementado: " + i);
                i--;
+               // Ou ainda poderia ser escrito
+               // i = i - 1
            }
        }
    }
@@ -37,3 +39,5 @@
 
    b) O laço for seria repetido dez vezes do mesmo jeito? Faça as classes
       com alterações e explique se sim ou não e o porquê.
+      Seria repetido dez veze em ambos os casos, no entanto o primeiro for listaria os números de 0 a 9.
+      Enquanto o segundo for listaria os números de 1 a 10. 
