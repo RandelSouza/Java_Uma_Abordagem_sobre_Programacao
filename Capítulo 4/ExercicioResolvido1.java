@@ -22,7 +22,7 @@ public class ExercicioResolvido1{
         while(contador <= 10){
             soma = soma + contador;
             System.out.print("Laço: " + contador);
-            System.out.println("\tSoma: " + soma);
+            System.out.println("   Soma: " + soma);
             contador++;
         }
 
