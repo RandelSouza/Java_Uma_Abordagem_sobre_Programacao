@@ -11,5 +11,9 @@ public class ExercicioResolvido2{
             System.out.println("   Soma: " + soma);
 
         } while(contador < 10);
+
+        media = soma / contador;
+        System.out.println("Soma dos 10 Primeiros Números: " + soma);
+        System.out.println("Média dos 10 Primeiros Números: " + media);
     }
 }
