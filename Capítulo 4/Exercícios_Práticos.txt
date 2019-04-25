@@ -32,7 +32,7 @@
 
    for (int i = 1; i <= 10; i++) {...}
 
-   O resultado na tela serio o mesmo dos três exemplos deste capítulo.
+   O resultado na tela seria o mesmo dos três exemplos deste capítulo.
 
    a) Essa declaração está correta?
 
@@ -40,4 +40,4 @@
    b) O laço for seria repetido dez vezes do mesmo jeito? Faça as classes
       com alterações e explique se sim ou não e o porquê.
       Seria repetido dez veze em ambos os casos, no entanto o primeiro for listaria os números de 0 a 9.
-      Enquanto o segundo for listaria os números de 1 a 10. 
+      Enquanto o segundo for listaria os números de 1 a 10.
