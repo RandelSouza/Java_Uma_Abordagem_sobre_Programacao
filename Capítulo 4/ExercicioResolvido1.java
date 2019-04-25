@@ -1,4 +1,9 @@
 /*
+No exemplo a seguir, deve-se criar uma classe que some os 10 números consecutivos,
+de 1 a 10, e exiba a cada interação o número de repetição (laço) e a soma acumulada
+até então. No fim, deve-se exibir a soma de todos e também a média entre eles.
+veja o passo a passo a seguir:
+
 1. Declare a classe ExercicioResolvido1 como pública, e inicie com o método main()
 2. Declare uma variável contador para contar de 1 a 10;
 3. Declare uma variável soma para acumular o resultado da soma de cada número
@@ -10,8 +15,18 @@ o resultado é appresentado inteiro.
 */
 public class ExercicioResolvido1{
     public static void main( String[] args ){
-        while(){
+        int contador = 1;
+        int soma  = 0;
+        int media = 0;
 
+        while(contador <= 10){
+            soma = soma + contador;
+            System.out.println("Repetição Número: " + contador);
+            System.out.println("Soma Acumulada: " + soma);
+            contador++;
         }
+
+        System.out.println("Soma de Todos: " + soma);
+        System.out.println("Média: " + soma/contador);
     }
 }
