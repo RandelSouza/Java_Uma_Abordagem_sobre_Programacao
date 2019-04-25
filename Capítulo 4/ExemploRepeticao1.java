@@ -6,5 +6,5 @@ public class ExemploRepeticao1{
 			System.out.println( auxiliar );
 			auxiliar = auxiliar + 1;
 		}
-
+	}
 }
