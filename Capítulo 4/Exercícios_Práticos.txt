@@ -4,7 +4,8 @@
 
 2. O que significa decremento de variável? Qual o sinal que indica o decremento?
    Dê exemplos de como seria utilizado em um programa.
-
+   Decremento de uma variável é diminuir o valor dela.
+   O sinal
 
 3. Partindo do código-fonte do último exemplo, podemos afirmar que se a instrução
    for fosse alterada para a seguinte:
