@@ -3,7 +3,8 @@ public class ExemploRepeticao1{
 		// Primeiro declaramos a variável auxiliar
 		int auxiliar = 0;
 		do{
-
-		} while();
+			System.out.println( auxiliar );
+			auxiliar = auxiliar + 1;
+		} while( auxiliar <= 100000 );
 	}
 }
