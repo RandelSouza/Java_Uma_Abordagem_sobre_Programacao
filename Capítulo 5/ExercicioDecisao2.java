@@ -6,19 +6,19 @@ public class ExercicioDecisao2{
         // Conceito MB (Muito Bom) notas 9 e 10.
 
         int nota = 9;
-        char conceito = '';
+        String conceito = "I";
 
         if ( nota >= 9){
-            conceito = 'MB';
+            conceito = "MB";
         }
         else if (nota >= 6){
-            conceito = 'B';
+            conceito = "B";
         }
         else if (nota >= 3){
-            conceito = 'R';
+            conceito = "R";
         }
         else{
-            conceito = 'I';
+            conceito = "I";
         }
 
         System.out.println("O conceito foi: " + conceito);
