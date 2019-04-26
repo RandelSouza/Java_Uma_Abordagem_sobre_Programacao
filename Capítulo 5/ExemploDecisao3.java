@@ -1,22 +1,19 @@
-public class ExemploDecisao{
+public class ExemploDecisao3{
     public static void main(String[] args) {
-        String nome = "João";
-        int idade = 18; // Supondo que o usuário digite 18.
+        int num = 10;
 
-        if(idade < 10){
-            System.out.println(nome + " é menor e criança.");
+        switch(num) {
+            case 5:
+                System.out.println("É cinco.");
+                break;
 
-        }
-        else if(idade < 18){
-            System.out.println(nome + " é menor e adolescente.");
+            case 10:
+                System.out.println("É dez.");
+                System.out.println("Pode haver mais de um comando em casa case.");
+                break;
 
-        }
-        else if(idade < 21){
-            System.out.println(nome + " é maior e jovem adulto.");
-
-        }
-        else{
-            System.out.println(nome + " é maior e adulto.");
-        }
+            case 20:
+                System.out.println("É vinte.");
+                break;
     }
 }
