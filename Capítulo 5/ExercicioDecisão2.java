@@ -1,22 +1,26 @@
 public class ExemploDecisao4{
     public static void main(String[] args) {
-        char letra = 'x';
+        // Conceito I (Irreguar) notas 0, 1 e 2;
+        // Conceito R (Regular)  notas 3, 4 e 5;
+        // Conceito B (Bom) notas 6, 7 e 8;
+        // Conceito MB (Muito Bom) notas 9 e 10.
 
-        switch(letra) {
-            case 'c':
-                System.out.println("letra c.");
-                break;
+        int nota = 9;
+        int conceito = '';
 
-            case 'p':
-                System.out.println("letra p.");
-                break;
-
-            case 'u':
-                System.out.println("letra u.");
-                break;
-            default:
-                System.out.println("Não foram encontradas 'c', 'p' e enm 'u'.");
-                break;
+        if ( nota >= 9){
+            conceito = 'MB';
         }
+        else if (notas >= 6){
+            conceito = 'B';
+        }
+        else if (notas >= 3){
+            conceito = 'R';
+        }
+        else{
+            conceito = 'I';
+        }
+
+        System.out.println("O conceito foi: " + conceito);
     }
 }
