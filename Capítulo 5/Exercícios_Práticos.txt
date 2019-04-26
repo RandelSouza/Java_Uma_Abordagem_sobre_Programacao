@@ -5,3 +5,8 @@
     b) 10; e compare novamente com o anterior;
     c) 20; observe os novos resultados;
     d) 21; compare com o item c acima.
+
+2. Criar uma classe chamada ExercicioDecisao2 para uma escola Técnica que deseja
+   converter notas númericas em conceitos:
+    * MB --> Muito bom: para notas 9 e 10;
+    * B --> Bom:
