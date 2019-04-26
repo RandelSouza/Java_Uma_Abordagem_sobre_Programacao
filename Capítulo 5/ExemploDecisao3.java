@@ -15,5 +15,6 @@ public class ExemploDecisao3{
             case 20:
                 System.out.println("É vinte.");
                 break;
+        }
     }
 }
