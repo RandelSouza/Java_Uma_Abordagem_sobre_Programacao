@@ -1,19 +1,21 @@
 public class ExemploDecisao3{
     public static void main(String[] args) {
-        int num = 10;
+        char letra = 'x';
 
-        switch(num) {
-            case 5:
-                System.out.println("É cinco.");
+        switch(letra) {
+            case 'c':
+                System.out.println("letra c.");
                 break;
 
-            case 10:
-                System.out.println("É dez.");
-                System.out.println("Pode haver mais de um comando em casa case.");
+            case 'p':
+                System.out.println("letra p.");
                 break;
 
-            case 20:
-                System.out.println("É vinte.");
+            case 'u':
+                System.out.println("letra u.");
+                break;
+            default:
+                System.out.println("Não foram encontradas 'c', 'p' e enm 'u'.");
                 break;
         }
     }
