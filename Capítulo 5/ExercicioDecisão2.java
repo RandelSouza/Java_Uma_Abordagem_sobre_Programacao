@@ -11,10 +11,10 @@ public class ExemploDecisao4{
         if ( nota >= 9){
             conceito = 'MB';
         }
-        else if (notas >= 6){
+        else if (nota >= 6){
             conceito = 'B';
         }
-        else if (notas >= 3){
+        else if (nota >= 3){
             conceito = 'R';
         }
         else{
