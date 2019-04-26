@@ -1,0 +1,7 @@
+1. Retorne a classe ExemploDecisao. Para estudar melhor a estrutura do if: altere o valor da variável
+   idade (no próprio código-fonte) para os seguintes:
+
+    a) 9; e veja os resultados;
+    b) 10; e compare novamente com o anterior;
+    c) 20; observe os novos resultados;
+    d) 21; compare com o item c acima.
