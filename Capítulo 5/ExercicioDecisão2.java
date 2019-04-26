@@ -6,7 +6,7 @@ public class ExemploDecisao4{
         // Conceito MB (Muito Bom) notas 9 e 10.
 
         int nota = 9;
-        int conceito = '';
+        char conceito = '';
 
         if ( nota >= 9){
             conceito = 'MB';
