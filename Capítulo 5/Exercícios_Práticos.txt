@@ -9,4 +9,5 @@
 2. Criar uma classe chamada ExercicioDecisao2 para uma escola Técnica que deseja
    converter notas númericas em conceitos:
     * MB --> Muito bom: para notas 9 e 10;
-    * B --> Bom:
+    * B --> Bom: para notas 3, 4 e 5;
+    * I --> Irregular: para notas 0, 1 ou 2.
