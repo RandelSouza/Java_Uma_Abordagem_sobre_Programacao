@@ -1,4 +1,4 @@
-public class ExemploDecisao4{
+public class ExercicioDecisao2{
     public static void main(String[] args) {
         // Conceito I (Irreguar) notas 0, 1 e 2;
         // Conceito R (Regular)  notas 3, 4 e 5;
