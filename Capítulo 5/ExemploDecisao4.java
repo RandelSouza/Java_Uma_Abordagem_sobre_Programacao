@@ -1,4 +1,4 @@
-public class ExemploDecisao3{
+public class ExemploDecisao4{
     public static void main(String[] args) {
         char letra = 'x';
 
