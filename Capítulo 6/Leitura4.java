@@ -1,4 +1,4 @@
-import java.swing.JOptionPane;
+import javax.swing.JOptionPane;
 
 public class Leitura4{
 
