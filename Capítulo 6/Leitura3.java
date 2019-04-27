@@ -6,7 +6,7 @@ public class Leitura3{
         Scanner ler = new Scanner(System.in);
 
         System.out.print("Digite seu nome: ");
-        String nome = ler.next();
+        String nome = ler.nextLine();
 
         System.out.print("Digite seu endereço: ");
         String endereco = ler.nextLine();
