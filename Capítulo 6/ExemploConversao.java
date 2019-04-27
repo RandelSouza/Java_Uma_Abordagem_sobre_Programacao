@@ -12,7 +12,7 @@ public class ExemploConversao{
         Float num5  = Float.parseFloat(numero);
         Double num6  = Double.parseDouble(numero);
 
-        JOptionPane.showMessageDialog(null, "Os números convertidos são: " + num1 +
+        JOptionPane.showMessageDialog(null, "Os números convertidos são: " + "\n" + num1 +
         "\n" + num2 + "\n" + num3 + "\n" + num4 + "\n" + num5 + "\n" + num6);
     }
 
