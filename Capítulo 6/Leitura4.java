@@ -1,20 +1,11 @@
-import java.util.Scanner;
+import java.swing.JOptionPane;
 
 public class Leitura4{
 
     public static void main(String[] args) {
-        Scanner ler = new Scanner(System.in);
-
-        System.out.print("Digite seu nome: ");
-        String nome = ler.nextLine();
-
-        System.out.print("Digite seu endereço: ");
-        String endereco = ler.nextLine();
-
-        System.out.print("Digite seu recado: ");
-        String recado = ler.nextLine();
-
-        System.out.println("Resultado: " + "\n"+ nome + "\n" + endereco + "\n" + recado);
+        JOptionPane.showMessageDialog(null, "A seguir, digite seus dados");
+        String nome = JOptionPane.showInputDialog("Digite seu nome");
+        JOptionPane.showMessageDialog(null, "Bom dia " + nome);
     }
 
 }
