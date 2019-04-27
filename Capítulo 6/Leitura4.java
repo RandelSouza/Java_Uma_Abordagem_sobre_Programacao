@@ -12,8 +12,8 @@ public class ExemploConversao{
         Float num5  = Float.parseFloat(numero);
         Double num6  = Double.parseDouble(numero);
 
-        JOptionPane.showMessageDialog(null, "A seguir, digite seus dados");
-        JOptionPane.showMessageDialog(null, "Bom dia " + nome);
+        JOptionPane.showMessageDialog(null, "Os números convertidos são: " + num1 +
+        "\n" + num2 + "\n" "\n" + num3 + "\n" + num4 + "\n" + num5 + "\n" + num6);
     }
 
 }
