@@ -18,7 +18,7 @@ public class Leitura{
         int num3 = ler.nextInt();
 
         System.out.print("Digite um número inteiro (tipo long): ");
-        long num4 = ler.extInt();
+        long num4 = ler.nextInt();
 
         System.out.println(nome + "\n" + num1 + "\n" + num2 + "\n" + num3 + "\n" + num4);
     }
