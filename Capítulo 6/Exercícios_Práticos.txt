@@ -25,3 +25,9 @@
 5. Utilizando JOptionPane.show, peça para o usuário digitar um número inteiro e verifique se ele é par
    ou ímpar, exibindo uma mensagem com a resposta. Para calcular o resto de uma divisão de inteiros utiliza-se a instrução %,
    por exemplo: if (num % 2 == 0){...}
+
+6. Crie uma classe que calcule a paridade do número (como no exercício anterior) dentro de um laço do...while e repita
+   essa operação até que seja digitado o número zero.
+
+7. Agora usando o laço while repita o teste de paridade até que o usuário digite zero,
+   mas no momento em que o zero for digitado, o programa tem que encerrar e não calcular mais ele é par ou ímpar.
