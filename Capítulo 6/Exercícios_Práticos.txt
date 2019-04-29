@@ -9,4 +9,12 @@
 3. Crie uma classe que pergunte ao usuário qual o seu primeiro nome e depois seu
    seu sobrenome (armazene em variáveis separadas). Então solicite a digitação do
    endereço na forma de logradouro (rua, avenida, alameda, etc) e número (este último do tipo inteiro).
-   Exibir os dados da seguinte forma: Sobrenome, Nome, Logradouro, número
+   Exibir os dados da seguinte forma: Sobrenome, Nome, Logradouro, número.
+
+
+4. Criar uma classe que exiba um menu de Agendamento de Consultas Médicas com as opções:
+    * Inserir novo paciente (apenas exibir a mensagem "Inserindo novo paciente.").
+    * Inserir novo médico (apenas exibir a mensagem "Inserindo novo médico.").
+    * Marcar consulta (exibir "Marcando consulta.").
+    * Descarmar consulta (exibit "Desmarcando consulta.").
+    * Digite 0 para sair.
