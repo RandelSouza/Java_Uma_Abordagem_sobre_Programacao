@@ -31,3 +31,6 @@
 
 7. Agora usando o laço while repita o teste de paridade até que o usuário digite zero,
    mas no momento em que o zero for digitado, o programa tem que encerrar e não calcular mais ele é par ou ímpar.
+
+8. Crie um método chamado paridade(int num) que recebe como argumento o número digitado em um JOptionPane.showInputDialog()
+   e já exiba a mensagem dizendo se é par ou ímpar. Como no exercício anterior, repita a digitação e cálculo até que se digite zero.
