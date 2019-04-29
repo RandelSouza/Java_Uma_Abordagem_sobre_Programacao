@@ -34,3 +34,6 @@
 
 8. Crie um método chamado paridade(int num) que recebe como argumento o número digitado em um JOptionPane.showInputDialog()
    e já exiba a mensagem dizendo se é par ou ímpar. Como no exercício anterior, repita a digitação e cálculo até que se digite zero.
+
+9. Como no exercício anterior, crie um método paridade que além de receber um argumento inteiro também retorne uma String com o resultado do cálculo,
+   porém que essa mensagem seja exibida por um JOptionPane() já no método main.
