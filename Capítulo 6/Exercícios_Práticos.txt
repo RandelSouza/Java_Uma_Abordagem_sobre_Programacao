@@ -5,3 +5,8 @@
 
 2. Desenvolva uma classe que pergunte ao usuário qual é a cotação para o dia de hoje.
    Em seguida, coverta o valor de 100 dólares em reais e exiba o resultado.
+
+3. Crie uma classe que pergunte ao usuário qual o seu primeiro nome e depois seu
+   seu sobrenome (armazene em variáveis separadas). Então solicite a digitação do
+   endereço na forma de logradouro (rua, avenida, alameda, etc) e número (este último do tipo inteiro).
+   Exibir os dados da seguinte forma: Sobrenome, Nome, Logradouro, número
