@@ -21,3 +21,7 @@
 
     Só permitir ao usuário sair do programa quando ele digitar zero (0) e, enquanto isso
     não acontecer, ficar repetindo o menu.
+
+5. Utilizando JOptionPane.show, peça para o usuário digitar um número inteiro e verifique se ele é par
+   ou ímpar, exibindo uma mensagem com a resposta. Para calcular o resto de uma divisão de inteiros utiliza-se a instrução %,
+   por exemplo: if (num % 2 == 0){...}
