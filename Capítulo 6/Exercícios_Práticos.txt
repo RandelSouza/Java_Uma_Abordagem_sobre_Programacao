@@ -2,3 +2,6 @@
    a troca de senhas. A nova senha tem de ser confirmada, ou seja, digitada duas vezes.
    Se essa nova senha coincidir em ambas as vees, então exibir a mensagem: "Senha alterada com sucesso!",
    senão exibir: "Nova senha não confirmada.".
+
+2. Desenvolva uma classe que pergunte ao usuário qual é a cotação para o dia de hoje.
+   Em seguida, coverta o valor de 100 dólares em reais e exiba o resultado.
