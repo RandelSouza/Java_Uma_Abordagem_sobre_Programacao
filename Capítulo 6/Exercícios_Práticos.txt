@@ -1,6 +1,6 @@
 1. Crie uma classe que receba um nome de usuário e senha para permitir
    a troca de senhas. A nova senha tem de ser confirmada, ou seja, digitada duas vezes.
-   Se essa nova senha coincidir em ambas as vees, então exibir a mensagem: "Senha alterada com sucesso!",
+   Se essa nova senha coincidir em ambas as vezes, então exibir a mensagem: "Senha alterada com sucesso!",
    senão exibir: "Nova senha não confirmada.".
 
 2. Desenvolva uma classe que pergunte ao usuário qual é a cotação para o dia de hoje.
