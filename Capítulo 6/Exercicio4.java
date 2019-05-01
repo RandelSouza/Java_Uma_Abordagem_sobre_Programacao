@@ -21,7 +21,7 @@ public class Exercicio4{
             try{
                 opcao = Integer.parseInt(entrada.nextLine());
             }catch(NumberFormatException nfe){
-                opcao = 0;
+                opcao = -1;
             }
 
             System.out.println("\n");
