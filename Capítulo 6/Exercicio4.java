@@ -17,7 +17,12 @@ public class Exercicio4{
         do{
             menu();
             System.out.print("Digite sua opção: ");
-            opcao = Integer.parseInt(entrada.nextLine());
+
+            try{
+                opcao = Integer.parseInt(entrada.nextLine());
+            }catch(NumberFormatException nfe){
+                opcao = 0;
+            }
 
             switch(opcao){
                 case 1:
