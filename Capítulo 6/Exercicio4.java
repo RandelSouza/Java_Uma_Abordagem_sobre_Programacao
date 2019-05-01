@@ -24,6 +24,8 @@ public class Exercicio4{
                 opcao = 0;
             }
 
+            System.out.println("\n");
+
             switch(opcao){
                 case 1:
                     System.out.println("Inserindo novo paciente.");
@@ -45,6 +47,7 @@ public class Exercicio4{
                     break;
             }
 
+            System.out.println("\n");
         }while(opcao != 0);
 
     }
