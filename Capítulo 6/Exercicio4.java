@@ -7,7 +7,7 @@ public class Exercicio4{
         System.out.println("[ 2 ] Inserir novo médico");
         System.out.println("[ 3 ] Marcar consulta");
         System.out.println("[ 4 ] Desmarcar consulta");
-        System.out.println("[ 0 ] Sair");
+        System.out.println("[ 0 ] Sair\n");
     }
 
     public static void main(String[] args) {
@@ -26,22 +26,22 @@ public class Exercicio4{
 
             switch(opcao){
                 case 1:
-                    System.out.print("Inserindo novo paciente.");
+                    System.out.println("Inserindo novo paciente.");
                     break;
                 case 2:
-                    System.out.print("Inserindo novo médico.");
+                    System.out.println("Inserindo novo médico.");
                     break;
                 case 3:
-                    System.out.print("Marcando consulta.");
+                    System.out.println("Marcando consulta.");
                     break;
                 case 4:
-                    System.out.print("Desmarcando consulta.");
+                    System.out.println("Desmarcando consulta.");
                     break;
                 case 0:
-                    System.out.print("Saindo...");
+                    System.out.println("Saindo...");
                     break;
                 default:
-                    System.out.print("O valor utilizado para a opção não é válido!");
+                    System.out.println("O valor utilizado para a opção não é válido!");
                     break;
             }
 
