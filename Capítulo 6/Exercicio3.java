@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class Exercicio2{
+public class Exercicio3{
     public static void main(String[] args) {
         String nome, sobrenome, logradouro = "";
         int numero = 0;
@@ -18,7 +18,7 @@ public class Exercicio2{
         System.out.print("Digite o seu número: ");
         numero = Integer.parseInt(entrada.nextLine());
 
-        System.out.print("Nome: " + nome +", "+"Sobrenome: " + sobrenome+", "
+        System.out.println("Nome: " + nome +", "+"Sobrenome: " + sobrenome+", "
                         +"Logradouro: " + logradouro+", "+"Número: " + numero);
     }
 }
