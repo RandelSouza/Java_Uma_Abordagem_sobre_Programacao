@@ -1,7 +1,7 @@
 import java.util.Scanner;
 
 public class Leitura3{
-
+    // classe leitura 3 exemplo de execuço
     public static void main(String[] args) {
         Scanner ler = new Scanner(System.in);
 
