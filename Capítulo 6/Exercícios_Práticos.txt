@@ -41,3 +41,6 @@
 10. Mais uma vez faça o teste de paridade dentro de um método de mesmo nome, porém
     desta vez que ele retorne um valor lógico (boolean) que seja True, se o argumento for par, e false, se o tal número for ímpar.
     Voltando para o método main, faça uma instrução if ara testar se a resposta é verdadeira ou falsa exibindo assim a mensagem correspondente.
+
+
+continuar a resolver exercicios
