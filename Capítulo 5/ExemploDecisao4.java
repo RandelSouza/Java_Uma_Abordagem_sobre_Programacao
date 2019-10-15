@@ -15,7 +15,7 @@ public class ExemploDecisao4{
                 System.out.println("letra u.");
                 break;
             default:
-                System.out.println("Não foram encontradas 'c', 'p' e enm 'u'.");
+                System.out.println("Não foram encontradas 'c', 'p' e e nem 'u'.");
                 break;
         }
     }
