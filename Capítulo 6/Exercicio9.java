@@ -1,13 +1,14 @@
 import javax.swing.JOptionPane;
 
-public class Exercicio8{
+public class Exercicio9{
 
-    public static void paridade(int num){
+    public static String paridade(int num){
+
         if(num % 2 == 0){
-            JOptionPane.showMessageDialog(null, "O número " + String.valueOf(num) +" é Par!");
-        }else{
-            JOptionPane.showMessageDialog(null, "O número " + String.valueOf(num) +" é Impar!");
+            return "O número " + String.valueOf(num) +" é Par!";
         }
+
+        return "O número " + String.valueOf(num) +" é Impar!";
     }
 
     public static void main(String[] args) {
@@ -20,7 +21,7 @@ public class Exercicio8{
                 break;
             }
 
-            paridade(numero);
+            JOptionPane.showMessageDialog(null, paridade(numero) );
         }
     }
 }
