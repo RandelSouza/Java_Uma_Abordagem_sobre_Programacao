@@ -11,7 +11,7 @@ public class Exercicio4{
     }
 
     public static void main(String[] args) {
-        int opcao  = 0;
+        int opcao = 0;
         Scanner entrada = new Scanner(System.in);
 
         do{
