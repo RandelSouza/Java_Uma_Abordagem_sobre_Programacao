@@ -9,7 +9,7 @@ public class ExemploDecisao3{
 
             case 10:
                 System.out.println("É dez.");
-                System.out.println("Pode haver mais de um comando em casa case.");
+                System.out.println("Pode haver mais de um comando em cada case.");
                 break;
 
             case 20:
