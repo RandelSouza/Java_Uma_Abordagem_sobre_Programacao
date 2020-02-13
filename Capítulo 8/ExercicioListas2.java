@@ -23,7 +23,6 @@ public class ExercicioListas2{
             }
         }while(!condicao_parada);
 
-
         for (int valor=0; valor < salarios.size(); valor++){
             soma += salarios.get(valor);
         }
