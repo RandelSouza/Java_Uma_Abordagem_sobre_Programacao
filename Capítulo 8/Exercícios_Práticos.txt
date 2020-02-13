@@ -7,3 +7,9 @@
 
     b) Ordene a ListaDiretor por ordem alfabética dos nomes dos mesmos.
     c) Exiba a lista de diretores ja ordenada.
+
+2. Através de uma lista de elementos do tipo Double, armazene o salário de cada mês até que o usuário
+   digite zero (condição de parada). Fazer a leitura desses dados através de uma tela com campo de entrada.
+
+   Depois, percorra toda a lista de salários acumulando sua soma e calcular a média dividindo esse total pelo número
+   de elementos na lista não nulos (que varia dependendo de quando o usuário teclou zero). Então, exiba a média salarial.
