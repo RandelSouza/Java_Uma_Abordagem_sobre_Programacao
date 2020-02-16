@@ -1,8 +1,8 @@
 import javax.swing.JOptionPane;
 import java.text.NumberFormat;
 
-private int codigo;
 public class Exercicio1{
+    private int codigo;
     private String nome;
     private String esporte;
     private double valorPatrocinio;
