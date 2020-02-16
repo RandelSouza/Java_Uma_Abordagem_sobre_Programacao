@@ -1,7 +1,7 @@
 import javax.swing.JOptionPane;
 import java.text.NumberFormat;
 
-public class Exercicio1{
+public class Atleta{
     private int codigo;
     private String nome;
     private String esporte;
