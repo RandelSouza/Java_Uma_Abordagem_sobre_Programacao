@@ -11,5 +11,5 @@ public class ExemploHeranca{
 
         System.out.println(jogador1.getEsporte() + " paga " + jogador1.getValorPatrocinio());
         System.out.println(corredor1.getEsporte() + " paga " + corredor1.getValorPatrocinio());
-    }
+    }   
 }
