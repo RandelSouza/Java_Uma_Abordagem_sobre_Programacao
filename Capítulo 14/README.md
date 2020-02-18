@@ -5,7 +5,7 @@
 1. Faça uma cópia da classe TesteSobrescrita.java com o nome CopiaDeTesteSobrescrita.java
    para receber do usuário final as informações como valor do patrocínio e a taxa de aumento em
    percentagem (os mesmos para os objetos atleta e corredor).
-* \[] Questão
+   - \[] Questão
 
 
 2. Crie a classe Corredor2.java na qual deve aparecer a alteração feita no método
