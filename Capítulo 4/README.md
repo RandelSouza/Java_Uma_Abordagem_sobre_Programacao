@@ -1,13 +1,16 @@
-1. Como fazemos para abortar um programa que está em loop infinito no prompt
+# Exercícios Práticos
+
+- \[x] 1. Como fazemos para abortar um programa que está em loop infinito no prompt
    do interpretador de comandos de seu sistema Operacional.
    Pressionando a tecla <CTRl+C>.
 
-2. O que significa decremento de variável? Qual o sinal que indica o decremento?
+- \[x] 2. O que significa decremento de variável? Qual o sinal que indica o decremento?
    Dê exemplos de como seria utilizado em um programa.
    Decremento de uma variável é diminuir o valor dela.
    O sinal que indica o decremento é o --.
    Exemplo do decremento:
 
+```java
    // Classe decremento
    public class Decremento{
        public static void main( String[] args ){
@@ -21,17 +24,17 @@
            }
        }
    }
+```
 
-
-3. Partindo do código-fonte do último exemplo, podemos afirmar que se a instrução
+- \[x] 3. Partindo do código-fonte do último exemplo, podemos afirmar que se a instrução
    for fosse alterada para a seguinte:
-
+```java
    for (int i = 0; i < 10; i++) {...}
-
+```
    ou para essa:
-
+```java
    for (int i = 1; i <= 10; i++) {...}
-
+```
    O resultado na tela seria o mesmo dos três exemplos deste capítulo.
 
    a) Essa declaração está correta?
