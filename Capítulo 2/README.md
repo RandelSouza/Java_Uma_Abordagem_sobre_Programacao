@@ -14,11 +14,15 @@
 
 |   TIPO   |   DESCRIÇÃO   |
 |----------|:-------------:|
+|          |               |
 |   byte   |  Inteiro de 8 bits em notação de  complemento de dois. Pode assumir valores entre -2⁷ = -128 e 2⁷-1=127
 |          |               |
 |  short   |Inteiro de 16 bits em notação de complemento de dois. Os valores possívels cobrem a faixa de -2^-15=-32.768 a 2^15-1=32.767|
+|          |               |
 |   int    |Inteiro de 32 bits em notação de complemento de dois. Pode assumir valores entre -2^31=2.147.483.648 e 2^31-1=2.147.483.647.|
+|          |               |
 |  long    |Inteiro de 64 bits em notação de complemento de dois. Pode assumir valores entre -263 e 263-1.|
+|          |               |
 
                         +---------------------+-------------------------------------+
                         |        TIPO         |              DESCRIÇÃO              |
