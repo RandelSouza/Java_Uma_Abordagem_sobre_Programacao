@@ -15,11 +15,8 @@
 |   TIPO   |   DESCRIÇÃO   |
 |----------|:-------------:|
 |   byte   |  Inteiro de 8 bits em notação de  complemento de dois. Pode assumir valores entre -2⁷ = -128 e 2⁷-1=127
-|----------|:-------------:|
 |  short   |    centered   |
-|----------|:-------------:|
 |   int    | right-aligned |
-|----------|:-------------:|
 |  long    | right-aligned |
 
 
