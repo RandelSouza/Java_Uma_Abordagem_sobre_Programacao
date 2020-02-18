@@ -36,11 +36,10 @@ Crie uma classe filha de produto chamada Livro e crie um método public void exi
 mostrar o código, a descricao e o preço desse objeto do tipo livro.]
 
 ___
-
 ```Observação: Lembre-se de que na classe Livro não há visibilidade de-
 reta dos atributos que o método tem de mostrar, pois eles são private
-na classe mãe. Então utilize o recurso de encapsulamento (get e set).```
-
+na classe mãe. Então utilize o recurso de encapsulamento (get e set).
+```
 ___
 
 
