@@ -1,6 +1,6 @@
 # Exercícios Práticos
 
-- \[] Questão 1.
+- \[] Questão
 
 1. Faça uma cópia da classe TesteSobrescrita.java com o nome CopiaDeTesteSobrescrita.java
    para receber do usuário final as informações como valor do patrocínio e a taxa de aumento em
