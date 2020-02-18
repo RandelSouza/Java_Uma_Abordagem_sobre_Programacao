@@ -35,11 +35,11 @@ public class Produto{
 Crie uma classe filha de produto chamada Livro e crie um método public void exibirDados() para
 mostrar o código, a descricao e o preço desse objeto do tipo livro.]
 
--------------------------------------------------------------------
+___
 Observação: Lembre-se de que na classe Livro não há visibilidade de-
 reta dos atributos que o método tem de mostrar, pois eles são private
 na classe mãe. Então utilize o recurso de encapsulamento (get e set).
--------------------------------------------------------------------
+___
 
 
 2. Crie uma classe TestaProduto que faça a instanciação de um objeto do tipo Livro, peça ao usuário
