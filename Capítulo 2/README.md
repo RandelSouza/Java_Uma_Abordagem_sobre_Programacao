@@ -1,4 +1,6 @@
-1. Pesquise para entender melhor:
+# Exercícios Práticos
+
+- \[x] 1. Pesquise para entender melhor:
   a) Sabendo que a parte física é o Hardware e que a parte lógica é o Software, dê exemplos para cada uma dessas partes.
     Parte física (Hardware): mouse, teclado, impressora, CPU, estabilizador e monitor.
     Parte lógica (Software): Sistema Operacional, gerenciador de discos, programas de usuário e qualquer programa que seja executavel no computador.
@@ -8,7 +10,7 @@
      Sim, pois estamos em contado constante com Sistemas da Informação e com a Tecnologia da Informação e Comunicação e trabalhamos seja direta
      ou seja indireramente com eles.
 
-2. Crie uma tabela com a faixa de valores possíveis para os tipos byte, short, int e long.
+- \[x] 2. Crie uma tabela com a faixa de valores possíveis para os tipos byte, short, int e long.
     +---------------------+-------------------------------------+
     |        TIPO         |              DESCRIÇÃO              |
     +---------------------+-------------------------------------+
