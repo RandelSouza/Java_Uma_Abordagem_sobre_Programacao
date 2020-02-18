@@ -1,4 +1,6 @@
-1. Crie uma classe chamada ExercicioListas, com um método main dentro do qual estão duas listas:
+# Exercícios Práticos
+
+- \[x] 1. Crie uma classe chamada ExercicioListas, com um método main dentro do qual estão duas listas:
     * ListaMes (contendo três elementos fixos: os nomes dos três primeiros meses do ano).
     * ListaDiretor (para armazenar os nomes dos diretores que o usuário irá digitar).
 
@@ -8,7 +10,7 @@
     b) Ordene a ListaDiretor por ordem alfabética dos nomes dos mesmos.
     c) Exiba a lista de diretores ja ordenada.
 
-2. Através de uma lista de elementos do tipo Double, armazene o salário de cada mês até que o usuário
+- \[x]  2. Através de uma lista de elementos do tipo Double, armazene o salário de cada mês até que o usuário
    digite zero (condição de parada). Fazer a leitura desses dados através de uma tela com campo de entrada.
 
    Depois, percorra toda a lista de salários acumulando sua soma e calcular a média dividindo esse total pelo número

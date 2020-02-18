@@ -41,7 +41,7 @@
                         |                     | valores entre -263 e 263-1.         |
                         +---------------------+-------------------------------------+
 
-3. O que signifiva Casting em programação.
+- \[x] 3. O que signifiva Casting em programação.
   Na linguagem Java, é possível se atribuir o valor de um tipo de variável
   a outro tipo de variável, porém para tal é necessário que esta operação
   seja apontada ao compilador. A este apontamento damos o nome de casting.
@@ -51,5 +51,5 @@
   variavel int, no entando o valor a ser depositado é o valor transformado que seja aceito pela variavel
   int, conforme sua estrutura de tipo primitivo aceita.
 
-4. Vamos estender nosso conhecimento para os números reais, respondendo quantos bytes ocupam na memória os tipos float e double.
+- \[x] 4. Vamos estender nosso conhecimento para os números reais, respondendo quantos bytes ocupam na memória os tipos float e double.
   O tipo float ocupa 4 bytes e o tipo double ocupa 8 bytes.

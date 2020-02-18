@@ -1,3 +1,5 @@
+# Exercícios Práticos
+
 - \[x] 1. Responda as questões:
   a) Dê exemplos de linguagens de programação esruturadas e também de linguagens de programação orientadas a objeto.
     São exemplos de linguagens de programação esruturadas: Fortran, Cobol, C, Pascal e Algol.

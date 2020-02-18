@@ -1,4 +1,6 @@
-1. Dada a seguinte classe Produto:
+# Exercícios Práticos
+
+- \[x] 1. Dada a seguinte classe Produto:
 
 ```java
 public class Produto{
@@ -44,6 +46,6 @@ na classe mãe. Então utilize o recurso de encapsulamento (get e set).
 ___
 
 
-2. Crie uma classe TestaProduto que faça a instanciação de um objeto do tipo Livro, peça ao usuário
+- \[x] 2. Crie uma classe TestaProduto que faça a instanciação de um objeto do tipo Livro, peça ao usuário
    final digitar os valores dos atributos dele com os respectivos tipos de dados e utilize o método
    exibirDados() para mostrá-los.
