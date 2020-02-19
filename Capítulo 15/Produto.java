@@ -1,3 +1,5 @@
+import javax.swing.JOptionPane;
+
 public class Produto{
     private int codigo;
     private String descricao;
@@ -52,24 +54,32 @@ public class Produto{
     public void calcularFrete(char regiao){
         switch (regiao){
             case 'I' :
-                System.out.println("Região para Entrega: Interior.");
+                JOptionPane.showMessageDialog(null, "Região para Entrega: Interior.");
                 this.frete = 100;
             break;
 
             case 'M' :
-                System.out.println("Região para Entrega: Metropolitana.");
+                JOptionPane.showMessageDialog(null, "Região para Entrega: Metropolitana.");
                 this.frete = 0;
             break;
 
             case 'L' :
-                System.out.println("Região para Entrega: Litoral.");
+                JOptionPane.showMessageDialog(null, "Região para Entrega: Litoral.");
                 this.frete = 20;
             break;
 
             default :
-                System.out.println("Por favor informe: (I)nterior, (M)etropolitana, (L)itorial.");
+                JOptionPane.showMessageDialog(null, "Por favor informe: (I)nterior, (M)etropolitana, (L)itorial.");
             break;
         }
     }
 
+    public void exibirDados(){
+        JOptionPane.showMessageDialog(null, "Código: " + this.codigo + "\n" +
+                                            "Descrição: " + this.descricao + "\n" +
+                                            "Preço: " + this.preco + "\n" +
+                                            "Frete: " + this.frete + "\n" +
+                                            "Data de Fabricação: " + this.dtFabr.dataCompleta()
+        );
+    }
 }
