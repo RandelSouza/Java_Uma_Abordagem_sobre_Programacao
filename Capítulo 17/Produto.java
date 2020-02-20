@@ -5,7 +5,6 @@ public class Produto{
     private String descricao;
     private double preco;
     private double frete;
-    private DataFabricacao dtFabr;
 
     public void setCodigo(int codigo){
         this.codigo = codigo;
@@ -29,14 +28,6 @@ public class Produto{
 
     public double getPreco(){
         return this.preco;
-    }
-
-    public void setDtFabr(DataFabricacao dtFabr){
-        this.dtFabr = dtFabr;
-    }
-
-    public DataFabricacao getDtFabr(){
-        return this.dtFabr;
     }
 
     public void setFrete(double frete){
@@ -78,8 +69,8 @@ public class Produto{
         JOptionPane.showMessageDialog(null, "Código: " + this.codigo + "\n" +
                                             "Descrição: " + this.descricao + "\n" +
                                             "Preço: " + this.preco + "\n" +
-                                            "Frete: " + this.frete + "\n" +
-                                            "Data de Fabricação: " + this.dtFabr.dataCompleta()
+                                            "Frete: " + this.frete + "\n"
+
         );
     }
 }
