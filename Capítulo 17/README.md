@@ -27,11 +27,12 @@
 - \[ ] 6. Descreva o que aconteceria se, em vez de usar laços de repetição para percorrer a lista,
           fosse escrito apenas:
           ```java
+
           System.out.println(minhaLista);
+
           ```
-
           veja o exemplo:
-
+          
 ```java
 
 import java.util.ArrayList;
@@ -79,6 +80,7 @@ ___
 - \[ ] 7. Criar a classe **Ciclista.java** sobrescrevendo o método **atualizarValor(double taxa)**, porém, diferente de **Corredor**, que dobra a taxa, desta vez apenas adicione R$ 37,00 a mais do que o valor da superclasse.
 
 - \[ ] 8. Faça a classe **TesteSimples.java** criando o objeto ciclista baseado no exercício anterior:
+
      **a)** Inserir dados;
 
       **b)** Atualizar o valor do patrocínio;
