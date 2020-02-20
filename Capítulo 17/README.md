@@ -15,10 +15,8 @@
           populando seus atributos com valores que desejar e, em seguida, adicione-os ao carrinho de compras. Ao instanciar o objeto, pode-se escrever das duas formas.
 
 ```java
-
 Produto caneta1 = new Caneta();
 Caneta caneta1 = new Caneta();
-
 ```
 
 Isso é possível, pois, caneta é um produto, e o produto pode ser uma caneta.          
@@ -30,15 +28,12 @@ Isso é possível, pois, caneta é um produto, e o produto pode ser uma caneta.
 - \[ ] 6. Descreva o que aconteceria se, em vez de usar laços de repetição para percorrer a lista, fosse escrito apenas:
 
 ```java
-
 System.out.println(minhaLista);
-
 ```
 
 veja o exemplo:
 
 ```java
-
 import java.util.ArrayList;
 import java.util.List;
 import javax.swing.JOptionPane;
@@ -73,7 +68,6 @@ public class CopiaDeTesteCompras{
         System.out.println(minhaLista);
     }
 }
-
 ```
 ___
 
