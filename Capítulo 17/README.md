@@ -16,12 +16,12 @@
 
           Ao instanciar o objeto, pode-se escrever das duas formas:
 
-          ```java
+```java
 
-          Produto caneta1 = new Caneta();
-          Caneta caneta1 = new Caneta();
+Produto caneta1 = new Caneta();
+Caneta caneta1 = new Caneta();
 
-          ```
+```
 
           Isso é possível, pois, caneta é um produto, e o produto pode ser uma caneta.          
 
@@ -31,11 +31,11 @@
 - \[ ] 6. Descreva o que aconteceria se, em vez de usar laços de repetição para percorrer a lista,
           fosse escrito apenas:
 
-          ```java
+```java
 
-          System.out.println(minhaLista);
+System.out.println(minhaLista);
 
-          ```
+```
 
           veja o exemplo:
 
