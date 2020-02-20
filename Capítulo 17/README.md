@@ -86,7 +86,7 @@ ___
 
 - \[ ] 8. Faça a classe **TesteSimples.java** criando o objeto ciclista baseado no exercício anterior:
 
-     a) Inserir dados;
+     a) Inserir dados;<br>
      b) Atualizar o valor do patrocínio;
      c) Mostrar os resultados.
 
