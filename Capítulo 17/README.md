@@ -14,7 +14,7 @@
 - \[ ] 4. Refaça a classe **TesteCompras.java** instanciando dois produtos do tipo caneta,
           populando seus atributos com valores que desejar e, em seguida, adicione-os ao carrinho de compras. Ao instanciar o objeto, pode-se escrever das duas formas.
 
-```java
+```Java
 Produto caneta1 = new Caneta();
 Caneta caneta1 = new Caneta();
 ```
@@ -33,7 +33,7 @@ System.out.println(minhaLista);
 
 veja o exemplo:
 
-```java
+```Java
 import java.util.ArrayList;
 import java.util.List;
 import javax.swing.JOptionPane;
