@@ -26,13 +26,15 @@
 
 - \[ ] 6. Descreva o que aconteceria se, em vez de usar laços de repetição para percorrer a lista,
           fosse escrito apenas:
+
           ```java
 
           System.out.println(minhaLista);
 
           ```
+
           veja o exemplo:
-          
+
 ```java
 
 import java.util.ArrayList;
