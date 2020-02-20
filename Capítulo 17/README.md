@@ -35,8 +35,8 @@ Caneta caneta1 = new Caneta();
 System.out.println(minhaLista);
 
 ```
+veja o exemplo:
 
-          veja o exemplo:
 
 ```java
 
