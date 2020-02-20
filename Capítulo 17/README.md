@@ -86,8 +86,8 @@ ___
 
 - \[ ] 8. Faça a classe **TesteSimples.java** criando o objeto ciclista baseado no exercício anterior:
 
-     a) Inserir dados;<br>
-     b) Atualizar o valor do patrocínio;<br>
-     c) Mostrar os resultados.<br>
+     **a)** Inserir dados;<br>
+     **b)** Atualizar o valor do patrocínio;<br>
+     **c)** Mostrar os resultados.<br>
 
 - \[ ] 9. Crie dentro do método **main()** de uma classe um vetor de Strings de 3 posições. Em seguida, solicite ao usuário digitar um nome de um mês para cada posição (utilizando um laço **for**). Então crie um **ArrayList()** chamado **listaTri** e adicione os três meses do vetor um por um à lista. Pode ser feito, por exemplo, por um laço **while**. Por fim exibir o contéudo de **listaTri**.
