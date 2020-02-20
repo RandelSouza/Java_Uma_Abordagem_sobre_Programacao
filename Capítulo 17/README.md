@@ -12,9 +12,7 @@
 - \[ ] 3. Crie uma classe para a venda de canetas que seja filha de **Produto2.java**.
 
 - \[ ] 4. Refaça a classe **TesteCompras.java** instanciando dois produtos do tipo caneta,
-          populando seus atributos com valores que desejar e, em seguida, adicione-os ao carrinho de compras.
-
-          Ao instanciar o objeto, pode-se escrever das duas formas.
+          populando seus atributos com valores que desejar e, em seguida, adicione-os ao carrinho de compras. Ao instanciar o objeto, pode-se escrever das duas formas.
 
 ```java
 
@@ -22,21 +20,22 @@ Produto caneta1 = new Caneta();
 Caneta caneta1 = new Caneta();
 
 ```
-          Isso é possível, pois, caneta é um produto, e o produto pode ser uma caneta.          
+
+Isso é possível, pois, caneta é um produto, e o produto pode ser uma caneta.          
+
 
 - \[ ] 5. Altere a classe **TesteCompras** e dessa vez criar um laço **for** tradicional para percorrer
           a lista e exibir os dados. Salvá-la com o nome de **CopiaDeTesteCompras.java**.
 
-- \[ ] 6. Descreva o que aconteceria se, em vez de usar laços de repetição para percorrer a lista,
-          fosse escrito apenas:
+- \[ ] 6. Descreva o que aconteceria se, em vez de usar laços de repetição para percorrer a lista, fosse escrito apenas:
 
 ```java
 
 System.out.println(minhaLista);
 
 ```
-veja o exemplo:
 
+veja o exemplo:
 
 ```java
 
