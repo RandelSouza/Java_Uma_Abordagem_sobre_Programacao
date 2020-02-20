@@ -14,7 +14,7 @@
 - \[ ] 4. Refaça a classe **TesteCompras.java** instanciando dois produtos do tipo caneta,
           populando seus atributos com valores que desejar e, em seguida, adicione-os ao carrinho de compras.
 
-          Ao instanciar o objeto, pode-se escrever das duas formas:
+          Ao instanciar o objeto, pode-se escrever das duas formas.
 
 ```java
 
@@ -22,7 +22,6 @@ Produto caneta1 = new Caneta();
 Caneta caneta1 = new Caneta();
 
 ```
-
           Isso é possível, pois, caneta é um produto, e o produto pode ser uma caneta.          
 
 - \[ ] 5. Altere a classe **TesteCompras** e dessa vez criar um laço **for** tradicional para percorrer
